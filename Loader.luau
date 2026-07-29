@@ -13,7 +13,7 @@ type loader_config = {
 
 --@list_place_loaders
 local ___place_loaders: { [number]: loader_config } = {
-    [6701277882] = {
+    [17577256698] = {
         name    = "Hutan",
         url     = "https://luaegis.net/scripts/v4/loaders/cc5e1426-c93e-4fe2-8f4b-cfdbc8432cd4.lua",
         version = "1.0.0",
