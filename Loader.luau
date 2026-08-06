@@ -19,7 +19,14 @@ local ___place_loaders: { [number]: loader_config } = {
         version = "1.0.0",
         author = "cenhub",
     },
+    [86339292370304] = {
+        name = "Alam Voice Chat",
+        url = "https://luaegis.net/scripts/v4/loaders/cc5e1426-c93e-4fe2-8f4b-cfdbc8432cd4.lua",
+        version = "1.0.0",
+        author = "cenhub",
+    },
 }
+
 
 local function __notify(title: string, text: string)
     pcall(function()
